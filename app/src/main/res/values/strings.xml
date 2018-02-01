@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFragment</string>
+    <string name="bt_wc">微信</string>
+    <string name="bt_address_list">通讯录</string>
+    <string name="bt_discover">发现</string>
+    <string name="bt_me">我</string>
+</resources>
